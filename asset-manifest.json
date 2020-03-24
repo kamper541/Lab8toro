@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Lab8toro/static/css/main.04418a4e.chunk.css",
+    "main.js": "/Lab8toro/static/js/main.34839e41.chunk.js",
+    "main.js.map": "/Lab8toro/static/js/main.34839e41.chunk.js.map",
+    "runtime-main.js": "/Lab8toro/static/js/runtime-main.db9879c2.js",
+    "runtime-main.js.map": "/Lab8toro/static/js/runtime-main.db9879c2.js.map",
+    "static/js/2.06698018.chunk.js": "/Lab8toro/static/js/2.06698018.chunk.js",
+    "static/js/2.06698018.chunk.js.map": "/Lab8toro/static/js/2.06698018.chunk.js.map",
+    "index.html": "/Lab8toro/index.html",
+    "precache-manifest.66d26cfc33b881a561bd47d03e260f12.js": "/Lab8toro/precache-manifest.66d26cfc33b881a561bd47d03e260f12.js",
+    "service-worker.js": "/Lab8toro/service-worker.js",
+    "static/css/main.04418a4e.chunk.css.map": "/Lab8toro/static/css/main.04418a4e.chunk.css.map",
+    "static/js/2.06698018.chunk.js.LICENSE.txt": "/Lab8toro/static/js/2.06698018.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.db9879c2.js",
+    "static/js/2.06698018.chunk.js",
+    "static/css/main.04418a4e.chunk.css",
+    "static/js/main.34839e41.chunk.js"
+  ]
+}
